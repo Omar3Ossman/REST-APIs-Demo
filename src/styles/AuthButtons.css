@@ -1,0 +1,26 @@
+.auth-buttons {
+    display: flex;
+    padding-right: 10px;
+    border: hidden;
+}
+
+button {
+    display: inline-block;
+    margin: 0.5em 0.25em;
+    padding: 0.5em 1em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.login {    
+    color: #ddd;
+    text-shadow: -1px -1px 0 #000;
+    background-color: #204650;
+    background-image: linear-gradient(to bottom, #275660 0, #183640 100%);
+}
+.register {
+    color: #053919;
+    text-shadow: none;
+    background-color: #a1c25a;
+    background-image: linear-gradient(to bottom, #bddb7e 0, #85a936 100%);
+}  

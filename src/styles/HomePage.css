@@ -1,0 +1,10 @@
+.listing-header{
+    background-image: radial-gradient(400px 80px at 0px top, rgba(170, 221, 51, .3), transparent);
+    position: relative;
+    margin: 0;
+    text-align: left;
+    padding: 1em 2em;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+}

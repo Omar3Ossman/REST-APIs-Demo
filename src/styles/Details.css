@@ -1,0 +1,37 @@
+.main-side{
+    flex: 1;
+    background-color: rgb(31, 31, 31); 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 30px 40px;
+}
+
+.main-side img{
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
+
+.whole-bar{
+    padding: 20px;
+    background-color: rgb(49, 49, 49); 
+    color: white;
+    width: 20%;
+
+}
+.whole-bar h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.whole-bar h6{
+    color: aqua;
+    text-align: center;
+    padding-top: 10px;
+}
+
+span{
+    font-size: 12px;
+    text-align: center;
+}
